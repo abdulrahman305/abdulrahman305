@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @abdulrahman305
 - 👀 I’m interested in AI
-- 🌱 I’m currently learning programming
-- 💞️ I’m looking to collaborate on chatbot apps or AI
+- 🌱 I’m currently AI engineer
+- 💞️ I’m looking to collaborate on advance apps on AI
 - 📫 How to reach me alrohaimi@gmail.com
 
 <!---
